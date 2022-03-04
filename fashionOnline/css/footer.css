@@ -1,0 +1,17 @@
+footer .contenedor{
+	background:#FAFAFA;
+
+}
+
+footer .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.redes{
+	margin:20px;
+	padding: 12px;
+}
+
+

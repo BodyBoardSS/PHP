@@ -1,0 +1,45 @@
+.ola{
+	background-color: silver;
+}
+.lole{
+	background-color: red;
+}
+.cabe{
+	background-color: white;
+}
+/*body { 
+  background: url('../img/01.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+	
+.prueba{
+	background-color: white;
+}
+.btnEliminar{
+	background-color: red;
+}
+
+hr{
+	size:10px;
+}
+.producto{
+	width: 23%;
+	height: 220px;
+	background-color: #fafafa;
+	border:1px solid gray;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+.producto img{
+	width: 60%;
+	height: 60%;
+	margin:0 auto;
+}
+#carro{
+	margin-left: 1000px;
+}
